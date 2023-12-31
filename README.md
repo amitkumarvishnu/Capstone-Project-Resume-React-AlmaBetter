@@ -1,4 +1,4 @@
-# Resume Builder (capstone-project)
+# Resume Builder (capstone-project @AlmaBetter)
 
 ## Introduction
       A resume builder is an online tool that simplifies the resume creation process.
@@ -8,7 +8,13 @@
       time-saving tool ensures a polished and professional resume, increasing the likelihood 
       of capturing employers' attention. With customization options and helpful tips, 
       resume builders are invaluable for individuals aiming to create an impactful resume
-      quickly and efficiently.  
+      quickly and efficiently. 
+
+ ## This Project is built up with the collaboration of four Team member's:-
+        1. Amit Kumar Vishnu
+        2. Sachin Kumar Singh
+        3. Nikhil Singh
+        4. Prateek Kumar
 
 1. In this project the following are used:
 
@@ -36,7 +42,7 @@ Folder PATH listing folder src:....
 ->    Store.js
 ->    tree.txt
    
-  __Components:-__
+  ## Components:-
 
        BackNextButton.js
        CheckSelectedId.js
@@ -63,12 +69,12 @@ Folder PATH listing folder src:....
       index.js
       MyResumes.js
       
-    *Styles*
+__Styles__
            DetailsFilling.css
            Home.css
            MyResumes.css
            
-    *Redux*
+__Redux__
        --Actions--
              actions.js
           
@@ -99,7 +105,7 @@ Folder PATH listing folder src:....
 
 
 # $ Live link $
-
+https://resume-builder-reactapp.netlify.app/
 
 # $ video link $
 
